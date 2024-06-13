@@ -154,4 +154,4 @@ cargo nexus verify
 
 SAVE ```NEXUS-PROOF``` SOMEWHERE IN DIRECTORY
 
-![image](https://github.com/mztacat/nexus-zkvm/assets/31314340/c66f422d-ce36-4580-98a0-9e2540e4de41)
+
